@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="Jenkins_ParamRepository"
+id="13faee4b-fb02-4517-83bc-f8a443918d7b">
+  <codegen
+  classname="Jenkins_ParamRepository"
+  namespace="Jenkins_Param"/>
+  <rootfolder
+  name="Root"
+  id="4ee04ed6-6db7-4f14-910a-cc038802da93"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

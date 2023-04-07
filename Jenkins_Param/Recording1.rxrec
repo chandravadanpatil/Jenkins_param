@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="ce3006ef-68f8-45fb-b6ea-46ec24f44a88"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="Jenkins_Param">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Parameters in Jenkins 1"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="5530c396-2e74-4163-b84d-d8bd8d267214">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	id="13faee4b-fb02-4517-83bc-f8a443918d7b"
+	name="Jenkins_ParamRepository"
+	relativepath="Jenkins_ParamRepository.rxrep">
+		<codegen
+		classname="Jenkins_ParamRepository"
+		namespace="Jenkins_Param">
+		</codegen>
+		<rootfolder
+		id="4ee04ed6-6db7-4f14-910a-cc038802da93"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
