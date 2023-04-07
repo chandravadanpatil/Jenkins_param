@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\bin\Debug\Jenkins_Param.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\bin\Debug\Jenkins_Param.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\bin\Debug\Jenkins_Param.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\bin\Debug\Jenkins_Param.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\bin\Debug\Jenkins_Param.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\bin\Debug\Jenkins_Param.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\obj\x86\Debug\Jenkins_Param.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\obj\x86\Debug\Jenkins_Param.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\Jenkins_Param\Jenkins_Param\obj\x86\Debug\Jenkins_Param.pdb
